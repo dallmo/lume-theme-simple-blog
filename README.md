@@ -1,4 +1,10 @@
-# Simple Blog
+# overview
+
+this repo is forked from the lum theme ["simple blog"](https://github.com/lumeland/theme-simple-blog/tree/main), by trying to address a few minor issues and add a bit customizations
+
+---
+
+# the original README
 
 [Lume](https://lume.land) theme to create a simple blog.
 
